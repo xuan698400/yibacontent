@@ -5,4 +5,8 @@
     <color name="color_C2C2C2">#C2C2C2</color>
     
     <color name="color_a9a9a9">#a9a9a9</color>
+    <color name="title_color">#6CA6CD</color>
+    
+    <color name="btn_normal_color">#FF7F00</color>
+    <color name="btn_pressed_color">#FF6347</color>
 </resources>
